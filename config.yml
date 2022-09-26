@@ -1,4 +1,4 @@
-baseURL: http://example.org/
+baseURL: https://juan-work-logs.vercel.app
 defaultContentLanguage: en
 languageCode: en-us
 title: Juan Work Logs
