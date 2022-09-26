@@ -1,7 +1,7 @@
 ---
 title: "SEI Testnet 2, Make Boba and Try Hugo"
 date: 2022-09-23T21:18:00+08:00
-draft: true
+draft: false
 summary: "Tasks from SEI Testnet 2 is quite easy, Make Boba by yourself is not worth it and Hugo is great."
 categories: ["Testnet"]
 tags: ["Hugo", "SEI"]

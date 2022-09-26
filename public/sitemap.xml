@@ -3,9 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://example.org/categories/</loc>
+    <lastmod>2022-09-23T21:18:00+08:00</lastmod>
+  </url><url>
+    <loc>http://example.org/tags/hugo/</loc>
+    <lastmod>2022-09-23T21:18:00+08:00</lastmod>
   </url><url>
     <loc>http://example.org/</loc>
+    <lastmod>2022-09-23T21:18:00+08:00</lastmod>
+  </url><url>
+    <loc>http://example.org/posts/</loc>
+    <lastmod>2022-09-23T21:18:00+08:00</lastmod>
+  </url><url>
+    <loc>http://example.org/tags/sei/</loc>
+    <lastmod>2022-09-23T21:18:00+08:00</lastmod>
+  </url><url>
+    <loc>http://example.org/posts/sei-testnet-2make-boba-and-try-hugo/</loc>
+    <lastmod>2022-09-23T21:18:00+08:00</lastmod>
   </url><url>
     <loc>http://example.org/tags/</loc>
+    <lastmod>2022-09-23T21:18:00+08:00</lastmod>
+  </url><url>
+    <loc>http://example.org/categories/testnet/</loc>
+    <lastmod>2022-09-23T21:18:00+08:00</lastmod>
   </url>
 </urlset>

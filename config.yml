@@ -5,6 +5,7 @@ title: Juan Work Logs
 theme: PaperMod
 
 Params:
+  env: production
   showtoc: true
   tocopen: true
   ShowShareButtons: true
