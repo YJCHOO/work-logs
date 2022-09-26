@@ -1,0 +1,14 @@
+baseURL: http://example.org/
+defaultContentLanguage: en
+languageCode: en-us
+title: Juan Work Logs
+theme: PaperMod
+
+Params:
+  showtoc: true
+  tocopen: true
+  ShowShareButtons: true
+  ShowBreadCrumbs: true
+  ShowPostNavLinks: true
+  ShowReadingTime: true
+
