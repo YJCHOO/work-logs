@@ -2,26 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Juan Work Logs</title>
-    <link>http://example.org/tags/</link>
+    <link>https://juan-work-logs.vercel.app/tags/</link>
     <description>Recent content in Tags on Juan Work Logs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 Sep 2022 21:18:00 +0800</lastBuildDate><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Sep 2022 11:44:15 +0800</lastBuildDate><atom:link href="https://juan-work-logs.vercel.app/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugo</title>
-      <link>http://example.org/tags/hugo/</link>
-      <pubDate>Fri, 23 Sep 2022 21:18:00 +0800</pubDate>
+      <link>https://juan-work-logs.vercel.app/tags/hugo/</link>
+      <pubDate>Mon, 26 Sep 2022 11:44:15 +0800</pubDate>
       
-      <guid>http://example.org/tags/hugo/</guid>
+      <guid>https://juan-work-logs.vercel.app/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ESP-01</title>
+      <link>https://juan-work-logs.vercel.app/tags/esp-01/</link>
+      <pubDate>Sun, 25 Sep 2022 11:25:00 +0800</pubDate>
+      
+      <guid>https://juan-work-logs.vercel.app/tags/esp-01/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ESP32-C3</title>
+      <link>https://juan-work-logs.vercel.app/tags/esp32-c3/</link>
+      <pubDate>Sun, 25 Sep 2022 11:25:00 +0800</pubDate>
+      
+      <guid>https://juan-work-logs.vercel.app/tags/esp32-c3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ESP8266</title>
+      <link>https://juan-work-logs.vercel.app/tags/esp8266/</link>
+      <pubDate>Sun, 25 Sep 2022 11:25:00 +0800</pubDate>
+      
+      <guid>https://juan-work-logs.vercel.app/tags/esp8266/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Levana</title>
+      <link>https://juan-work-logs.vercel.app/tags/levana/</link>
+      <pubDate>Sun, 25 Sep 2022 11:25:00 +0800</pubDate>
+      
+      <guid>https://juan-work-logs.vercel.app/tags/levana/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LILYGO T-01C3</title>
+      <link>https://juan-work-logs.vercel.app/tags/lilygo-t-01c3/</link>
+      <pubDate>Sun, 25 Sep 2022 11:25:00 +0800</pubDate>
+      
+      <guid>https://juan-work-logs.vercel.app/tags/lilygo-t-01c3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SUI Name Service</title>
+      <link>https://juan-work-logs.vercel.app/tags/sui-name-service/</link>
+      <pubDate>Sun, 25 Sep 2022 11:25:00 +0800</pubDate>
+      
+      <guid>https://juan-work-logs.vercel.app/tags/sui-name-service/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SEI</title>
-      <link>http://example.org/tags/sei/</link>
+      <link>https://juan-work-logs.vercel.app/tags/sei/</link>
       <pubDate>Fri, 23 Sep 2022 21:18:00 +0800</pubDate>
       
-      <guid>http://example.org/tags/sei/</guid>
+      <guid>https://juan-work-logs.vercel.app/tags/sei/</guid>
       <description></description>
     </item>
     

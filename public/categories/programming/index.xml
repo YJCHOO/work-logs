@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Programming on Juan Work Logs</title>
+    <link>https://juan-work-logs.vercel.app/categories/programming/</link>
+    <description>Recent content in Programming on Juan Work Logs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 26 Sep 2022 11:44:15 +0800</lastBuildDate><atom:link href="https://juan-work-logs.vercel.app/categories/programming/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deploy Hugo</title>
+      <link>https://juan-work-logs.vercel.app/posts/deploy-hugo/</link>
+      <pubDate>Mon, 26 Sep 2022 11:44:15 +0800</pubDate>
+      
+      <guid>https://juan-work-logs.vercel.app/posts/deploy-hugo/</guid>
+      <description>Work logs website is up!</description>
+    </item>
+    
+    <item>
+      <title>SEI Testnet 2, Make Boba and Try Hugo</title>
+      <link>https://juan-work-logs.vercel.app/posts/sei-testnet-2make-boba-and-try-hugo/</link>
+      <pubDate>Fri, 23 Sep 2022 21:18:00 +0800</pubDate>
+      
+      <guid>https://juan-work-logs.vercel.app/posts/sei-testnet-2make-boba-and-try-hugo/</guid>
+      <description>Tasks from SEI Testnet 2 is quite easy, Make Boba by yourself is not worth it and Hugo is great.</description>
+    </item>
+    
+  </channel>
+</rss>

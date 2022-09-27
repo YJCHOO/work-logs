@@ -2,17 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Testnet on Juan Work Logs</title>
-    <link>http://example.org/categories/testnet/</link>
+    <link>https://juan-work-logs.vercel.app/categories/testnet/</link>
     <description>Recent content in Testnet on Juan Work Logs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 Sep 2022 21:18:00 +0800</lastBuildDate><atom:link href="http://example.org/categories/testnet/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 25 Sep 2022 11:25:00 +0800</lastBuildDate><atom:link href="https://juan-work-logs.vercel.app/categories/testnet/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sui Name Service and Levana Testnet, Buy a LILYGO T-01C3</title>
+      <link>https://juan-work-logs.vercel.app/posts/sui-name-service-levana-testnet-lilygo-t-01c3/</link>
+      <pubDate>Sun, 25 Sep 2022 11:25:00 +0800</pubDate>
+      
+      <guid>https://juan-work-logs.vercel.app/posts/sui-name-service-levana-testnet-lilygo-t-01c3/</guid>
+      <description>Simple Tasks from Sui Name Service and Levana. Some data entry work. Buy a LILYGO T-01C3</description>
+    </item>
+    
     <item>
       <title>SEI Testnet 2, Make Boba and Try Hugo</title>
-      <link>http://example.org/posts/sei-testnet-2make-boba-and-try-hugo/</link>
+      <link>https://juan-work-logs.vercel.app/posts/sei-testnet-2make-boba-and-try-hugo/</link>
       <pubDate>Fri, 23 Sep 2022 21:18:00 +0800</pubDate>
       
-      <guid>http://example.org/posts/sei-testnet-2make-boba-and-try-hugo/</guid>
+      <guid>https://juan-work-logs.vercel.app/posts/sei-testnet-2make-boba-and-try-hugo/</guid>
       <description>Tasks from SEI Testnet 2 is quite easy, Make Boba by yourself is not worth it and Hugo is great.</description>
     </item>
     
