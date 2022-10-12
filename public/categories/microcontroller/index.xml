@@ -6,7 +6,16 @@
     <description>Recent content in Microcontroller on Juan Work Logs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Sep 2022 11:25:00 +0800</lastBuildDate><atom:link href="https://juan-work-logs.vercel.app/categories/microcontroller/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 11 Oct 2022 23:05:09 +0800</lastBuildDate><atom:link href="https://juan-work-logs.vercel.app/categories/microcontroller/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nomic Testnet 2 and Motion Sensor Go Wrong.</title>
+      <link>https://juan-work-logs.vercel.app/posts/nomic-testnet-2-pir-sensor-project-go-wrong/</link>
+      <pubDate>Tue, 11 Oct 2022 23:05:09 +0800</pubDate>
+      
+      <guid>https://juan-work-logs.vercel.app/posts/nomic-testnet-2-pir-sensor-project-go-wrong/</guid>
+      <description>Simple Tasks from Nomic Testnet 2. Debug PIR sensor with LILYGO T-01C3. Some data entry work.</description>
+    </item>
+    
     <item>
       <title>Sui Name Service and Levana Testnet, Buy a LILYGO T-01C3</title>
       <link>https://juan-work-logs.vercel.app/posts/sui-name-service-levana-testnet-lilygo-t-01c3/</link>

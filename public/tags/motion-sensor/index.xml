@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Motion Sensor on Juan Work Logs</title>
+    <link>https://juan-work-logs.vercel.app/tags/motion-sensor/</link>
+    <description>Recent content in Motion Sensor on Juan Work Logs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 11 Oct 2022 23:05:09 +0800</lastBuildDate><atom:link href="https://juan-work-logs.vercel.app/tags/motion-sensor/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nomic Testnet 2 and Motion Sensor Go Wrong.</title>
+      <link>https://juan-work-logs.vercel.app/posts/nomic-testnet-2-pir-sensor-project-go-wrong/</link>
+      <pubDate>Tue, 11 Oct 2022 23:05:09 +0800</pubDate>
+      
+      <guid>https://juan-work-logs.vercel.app/posts/nomic-testnet-2-pir-sensor-project-go-wrong/</guid>
+      <description>Simple Tasks from Nomic Testnet 2. Debug PIR sensor with LILYGO T-01C3. Some data entry work.</description>
+    </item>
+    
+  </channel>
+</rss>

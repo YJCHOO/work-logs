@@ -3,7 +3,40 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://juan-work-logs.vercel.app/categories/</loc>
-    <lastmod>2022-09-26T11:44:15+08:00</lastmod>
+    <lastmod>2022-10-11T23:05:09+08:00</lastmod>
+  </url><url>
+    <loc>https://juan-work-logs.vercel.app/tags/esp32-c3/</loc>
+    <lastmod>2022-10-11T23:05:09+08:00</lastmod>
+  </url><url>
+    <loc>https://juan-work-logs.vercel.app/</loc>
+    <lastmod>2022-10-11T23:05:09+08:00</lastmod>
+  </url><url>
+    <loc>https://juan-work-logs.vercel.app/tags/lilygo-t-01c3/</loc>
+    <lastmod>2022-10-11T23:05:09+08:00</lastmod>
+  </url><url>
+    <loc>https://juan-work-logs.vercel.app/categories/microcontroller/</loc>
+    <lastmod>2022-10-11T23:05:09+08:00</lastmod>
+  </url><url>
+    <loc>https://juan-work-logs.vercel.app/tags/motion-sensor/</loc>
+    <lastmod>2022-10-11T23:05:09+08:00</lastmod>
+  </url><url>
+    <loc>https://juan-work-logs.vercel.app/tags/nomic/</loc>
+    <lastmod>2022-10-11T23:05:09+08:00</lastmod>
+  </url><url>
+    <loc>https://juan-work-logs.vercel.app/posts/nomic-testnet-2-pir-sensor-project-go-wrong/</loc>
+    <lastmod>2022-10-11T23:05:09+08:00</lastmod>
+  </url><url>
+    <loc>https://juan-work-logs.vercel.app/tags/pir/</loc>
+    <lastmod>2022-10-11T23:05:09+08:00</lastmod>
+  </url><url>
+    <loc>https://juan-work-logs.vercel.app/posts/</loc>
+    <lastmod>2022-10-11T23:05:09+08:00</lastmod>
+  </url><url>
+    <loc>https://juan-work-logs.vercel.app/tags/</loc>
+    <lastmod>2022-10-11T23:05:09+08:00</lastmod>
+  </url><url>
+    <loc>https://juan-work-logs.vercel.app/categories/testnet/</loc>
+    <lastmod>2022-10-11T23:05:09+08:00</lastmod>
   </url><url>
     <loc>https://juan-work-logs.vercel.app/posts/deploy-hugo/</loc>
     <lastmod>2022-09-26T11:44:15+08:00</lastmod>
@@ -11,22 +44,10 @@
     <loc>https://juan-work-logs.vercel.app/tags/hugo/</loc>
     <lastmod>2022-09-26T11:44:15+08:00</lastmod>
   </url><url>
-    <loc>https://juan-work-logs.vercel.app/</loc>
-    <lastmod>2022-09-26T11:44:15+08:00</lastmod>
-  </url><url>
-    <loc>https://juan-work-logs.vercel.app/posts/</loc>
-    <lastmod>2022-09-26T11:44:15+08:00</lastmod>
-  </url><url>
     <loc>https://juan-work-logs.vercel.app/categories/programming/</loc>
     <lastmod>2022-09-26T11:44:15+08:00</lastmod>
   </url><url>
-    <loc>https://juan-work-logs.vercel.app/tags/</loc>
-    <lastmod>2022-09-26T11:44:15+08:00</lastmod>
-  </url><url>
     <loc>https://juan-work-logs.vercel.app/tags/esp-01/</loc>
-    <lastmod>2022-09-25T11:25:00+08:00</lastmod>
-  </url><url>
-    <loc>https://juan-work-logs.vercel.app/tags/esp32-c3/</loc>
     <lastmod>2022-09-25T11:25:00+08:00</lastmod>
   </url><url>
     <loc>https://juan-work-logs.vercel.app/tags/esp8266/</loc>
@@ -35,19 +56,10 @@
     <loc>https://juan-work-logs.vercel.app/tags/levana/</loc>
     <lastmod>2022-09-25T11:25:00+08:00</lastmod>
   </url><url>
-    <loc>https://juan-work-logs.vercel.app/tags/lilygo-t-01c3/</loc>
-    <lastmod>2022-09-25T11:25:00+08:00</lastmod>
-  </url><url>
-    <loc>https://juan-work-logs.vercel.app/categories/microcontroller/</loc>
-    <lastmod>2022-09-25T11:25:00+08:00</lastmod>
-  </url><url>
     <loc>https://juan-work-logs.vercel.app/tags/sui-name-service/</loc>
     <lastmod>2022-09-25T11:25:00+08:00</lastmod>
   </url><url>
     <loc>https://juan-work-logs.vercel.app/posts/sui-name-service-levana-testnet-lilygo-t-01c3/</loc>
-    <lastmod>2022-09-25T11:25:00+08:00</lastmod>
-  </url><url>
-    <loc>https://juan-work-logs.vercel.app/categories/testnet/</loc>
     <lastmod>2022-09-25T11:25:00+08:00</lastmod>
   </url><url>
     <loc>https://juan-work-logs.vercel.app/tags/sei/</loc>
